@@ -1,0 +1,123 @@
+.contactpro1 {
+	position: relative;
+	top: 180px;
+	left: 0px;
+	width: 80%;
+	height: 140%;
+	margin: 0 auto 0;
+	color: #017874;
+}
+.contactpro1 ul li{
+	position: relative;
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+.contactpro1 ul li ul {margin-top: 10px;}
+.contactpro1 ul li ul li{
+	position: relative;
+	text-align: center;
+	left: -41px;
+	font-size: 18px;
+}
+.contactpro1 img {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 7px double #017874;
+	box-shadow: 0px 3px 14px gray;
+}
+.contactpro1 p {
+	position: relative;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 21px;
+}
+.zs {
+	margin-left: 160px;
+	margin-right: 85px;
+	margin-bottom: 70px;
+}
+.zs1 {
+	margin-top: 10px;
+	margin-left: 340px;
+	margin-right: 80px;
+	margin-bottom: 70px;
+}
+.zs2 {
+	margin-left: 150px;
+	margin-right: 100px;
+	margin-bottom: 140px;
+}
+.overall {
+	margin-right: 80px;
+}
+li {list-style: none;}
+.headpro p , .headpro1 p, .headpro2 p, .headpro3 p, .headpro4 p, .headpro5 p, .headpro6 p, .headpro7 p, .headpro8 p, .headpro9 p, .headpro10 p, .headpro11 p, .headpro12 p, .headpro13 p{
+	position: absolute;
+	width: 400px;
+	height: 40px;
+	line-height: 40px;
+}
+.headpro p {
+	top: 340px;
+	left: 44%;
+}
+.headpro2 p {
+	top: 650px;
+	left: 41.3%;
+}
+.headpro3 p {
+	top: 950px;
+	left: 35.5%;
+}
+.headpro4 p {
+	top: 1275px;
+	left: 43%;
+}
+.headpro5 p {
+	top: 1590px;
+	left: 42%;
+}
+.headpro6 p {
+	top: 1900px;
+	left: 45%;
+}
+.headpro7 p {
+	top: 2200px;
+	left: 45%;
+}
+.headpro8 p {
+	top: 2510px;
+	left: 42%;
+}
+.headpro9 p {
+	top: 2820px;
+	left: 43%;
+}
+.headpro10 p {
+	top: 3120px;
+	left: 38.2%;
+}
+.headpro11 p {
+	top: 3450px;
+	left: 41%;
+}
+.headpro12 p {
+	top: 3770px;
+	left: 43%;
+}
+.headpro13 p {
+	top: 4090px;
+	left: 41.5%;
+}
+.collegeaddr img{
+	position: relative;
+	top: 120px;
+	left: 31%;
+	width: 530px;
+	height: 66px;
+	border-radius: 14px;
+	box-shadow: 2px 2px 5px gray;
+}
